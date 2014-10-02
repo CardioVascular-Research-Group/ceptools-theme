@@ -74,7 +74,7 @@ $theme.include($body_top_include)
 			   <li><a href="http://wiki.cvrgrid.org/index.php/CEPTools_User_Guide" rel="external" target="_blank">Help</a></li>
 			   <li><a href="http://wiki.cvrgrid.org/index.php/CVRG_Electrophysiology_Data_Repository_Terms_of_Use" rel="external" target="_blank">Terms of Use</a></li>
 			   <li><a href="http://wiki.cvrgrid.org/index.php/CVRG_Electrophysiology_Data_Repository_Privacy_Policy" rel="external" target="_blank">Privacy Policy</a></li>
-			   <li><a href="http://localhost:8080/web/guest/contact-us" rel="external" target="_blank">Contact Us</a></li>
+			   <li><a href="$themeDisplay.getURLHome()/contact-us" rel="external" target="_blank">Contact Us</a></li>
 		   </ul>
 	</footer>
 </div>
