@@ -70,17 +70,12 @@ $theme.include($body_top_include)
 	</div>
 
 	<footer id="footer" role="contentinfo">
-		<p class="powered-by">
-		   <a href="http://wiki.cvrgrid.org/index.php/CEPTools_User_Guide" rel="external" target="_blank">Help</a>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   <a href="http://wiki.cvrgrid.org/index.php/CVRG_Electrophysiology_Data_Repository_Terms_of_Use" rel="external" target="_blank">Terms of Use</a>
-		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   <a href="http://wiki.cvrgrid.org/index.php/CVRG_Electrophysiology_Data_Repository_Privacy_Policy" rel="external" target="_blank">Privacy Policy</a>
-		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   <a href="http://localhost:8080/web/guest/contact-us" rel="external" target="_blank">Contact Us</a>
-		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			
-		</p>
+		   <ul class="powered-by">
+			   <li><a href="http://wiki.cvrgrid.org/index.php/CEPTools_User_Guide" rel="external" target="_blank">Help</a></li>
+			   <li><a href="http://wiki.cvrgrid.org/index.php/CVRG_Electrophysiology_Data_Repository_Terms_of_Use" rel="external" target="_blank">Terms of Use</a></li>
+			   <li><a href="http://wiki.cvrgrid.org/index.php/CVRG_Electrophysiology_Data_Repository_Privacy_Policy" rel="external" target="_blank">Privacy Policy</a></li>
+			   <li><a href="http://localhost:8080/web/guest/contact-us" rel="external" target="_blank">Contact Us</a></li>
+		   </ul>
 	</footer>
 </div>
 

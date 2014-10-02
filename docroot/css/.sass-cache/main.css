@@ -2791,6 +2791,10 @@ hr, .separator {
 #footer {
   text-align: right; }
 
+.powered-by li {
+  display: inline-block;
+  padding-left: 35px; }
+
 /* ---------- Site breadcrumbs ---------- */
 .site-breadcrumbs {
   margin: 0 0 5px;
