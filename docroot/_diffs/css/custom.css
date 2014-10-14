@@ -444,25 +444,17 @@ border-size:0!important;
 font-family: helvetica!important;
 }
 
-.fileupload-content:after {
-    position: relative;
+.ui-fileupload-content {
+    min-height: 85px;
+}
+
+.ui-fileupload-content:after {
     font-weight: bold;
     left: 11px;
     font-size: 12pt;
-    color: #CCCCCC;
+    color: #CCC;
     font-family: Calibri;
-    content:
-        "Note: This browser window also allows for you to Drag and Drop files from your computer desktop to this interface for easy uploading.";
-    height: 400px !important;
-    width: 100% !important;
+    content: "Note: This browser window also allows for you to Drag and Drop files from your computer desktop to this interface for easy uploading.";
 }
-
-.fileupload-content {
-    height: 400px !important;
-    border: 0 !important;
-    border-size: 0 !important;
-}
-
-
 
 
