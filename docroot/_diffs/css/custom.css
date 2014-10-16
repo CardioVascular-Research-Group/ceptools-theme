@@ -457,4 +457,14 @@ font-family: helvetica!important;
     content: "Note: This browser window also allows for you to Drag and Drop files from your computer desktop to this interface for easy uploading.";
 }
 
+.ui-paginator-top {
+    display: none;
+}
 
+.ui-datatable-header {
+    font-size: 1.03em;
+}
+
+.ui-state-default, .ui-paginator {
+    font-size: 0.9em;
+}
