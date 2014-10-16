@@ -461,8 +461,12 @@ font-family: helvetica!important;
     display: none;
 }
 
+.ui-datatable {
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
 .ui-datatable-header {
-    font-size: 1.03em;
+    font-size: 1.02em;
 }
 
 .ui-state-default, .ui-paginator {
