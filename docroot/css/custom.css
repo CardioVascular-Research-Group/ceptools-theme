@@ -472,3 +472,22 @@ font-family: helvetica!important;
 .ui-state-default, .ui-paginator {
     font-size: 0.9em;
 }
+.pubFileTable tbody td{
+	padding:0;	
+}
+.pubFileTable tbody .pubFilenameTd, .pubFileTable tbody .pubErrorTd{
+	padding:0 10px 0;
+}
+.ui-widget-content .ui-inputtext.pubFileInfoCell {
+	background:none repeat scroll 0 0 rgba(0, 0, 0, 0);
+	border:medium none;
+	box-shadow:none;
+	padding:18px 0px 18px 10px;
+	width:100%;
+}
+.ui-widget-content .ui-inputtext.pubFileInfoCell:focus{
+	background: none repeat scroll 0 0 #ffc;
+}
+table.grid {
+	width:100%
+}
